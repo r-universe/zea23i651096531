@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "aisoph"]
+	path = aisoph
+	url = https://github.com/cran/aisoph
+[submodule "coxphm"]
+	path = coxphm
+	url = https://github.com/cran/coxphm
+[submodule "isoSurv"]
+	path = isoSurv
+	url = https://github.com/cran/isoSurv
+[submodule "persDx"]
+	path = persDx
+	url = https://github.com/cran/persDx
+[submodule "surrosurvROC"]
+	path = surrosurvROC
+	url = https://github.com/cran/surrosurvROC
+[submodule "uniah"]
+	path = uniah
+	url = https://github.com/cran/uniah
+[submodule "varoc"]
+	path = varoc
+	url = https://github.com/cran/varoc
