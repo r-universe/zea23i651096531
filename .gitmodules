@@ -5,6 +5,9 @@
 [submodule "aisoph"]
 	path = aisoph
 	url = https://github.com/cran/aisoph
+[submodule "btrm"]
+	path = btrm
+	url = https://github.com/cran/btrm
 [submodule "coxphm"]
 	path = coxphm
 	url = https://github.com/cran/coxphm
