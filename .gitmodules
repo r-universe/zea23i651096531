@@ -20,6 +20,9 @@
 [submodule "surrosurvROC"]
 	path = surrosurvROC
 	url = https://github.com/cran/surrosurvROC
+[submodule "tgml"]
+	path = tgml
+	url = https://github.com/cran/tgml
 [submodule "uniah"]
 	path = uniah
 	url = https://github.com/cran/uniah
